@@ -269,7 +269,7 @@ WHERE
 
 <img width="1297" height="311" alt="image" src="https://github.com/user-attachments/assets/9c4db42a-6e92-4b43-8d11-244b68a01785" />
 
-<img width="1920" height="1200" alt="Screenshot 2025-11-22 153041" src="https://github.com/user-attachments/assets/45f254de-f4f1-4d7d-b716-eeec528f0ea6" />
+
 
 
 ## RESULT
