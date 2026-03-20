@@ -178,7 +178,7 @@ having AVG(salary) > 5000
 
 <img width="531" height="398" alt="image" src="https://github.com/user-attachments/assets/879c5d0a-0604-4ec6-aba8-f924cdd63ec1" />
 
-<img width="1920" height="1200" alt="Screenshot 2025-11-22 153017" src="https://github.com/user-attachments/assets/31d468fc-b06e-42f7-9017-a069cce17473" />
+
 
 
 ## RESULT
