@@ -180,7 +180,5 @@ select ename,strftime('%d-%m-%Y',hiredate) as HireDateFormatted from emp;
 
 <img width="666" height="348" alt="image" src="https://github.com/user-attachments/assets/3429efed-a429-4c29-a415-ec3586daf81c" />
 
-<img width="1919" height="1198" alt="Screenshot 2025-11-22 153002" src="https://github.com/user-attachments/assets/f592c2a0-a53a-4893-a299-c020ad7687ed" />
-
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
