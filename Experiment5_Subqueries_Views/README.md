@@ -175,7 +175,6 @@ where age <(select AVG(age) from Employee where income > 1000000)
 
 <img width="1222" height="394" alt="image" src="https://github.com/user-attachments/assets/aa3480f9-8d43-49cf-8aa9-d15d7114496a" />
 
-<img width="1920" height="1200" alt="Screenshot 2025-11-22 153030" src="https://github.com/user-attachments/assets/8e46da67-8800-4029-bf36-a3c115c0b4cc" />
 
 
 ## RESULT
